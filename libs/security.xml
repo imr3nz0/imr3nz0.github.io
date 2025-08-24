@@ -1,0 +1,16 @@
+<mxlibrary>
+  [
+    {
+      "xml": "<shape label=\"Servidor\" style=\"shape=mxgraph.cisco.server;fillColor=#0ea5e9;\"/>",
+      "w": 80,
+      "h": 80,
+      "title": "Servidor"
+    },
+    {
+      "xml": "<shape label=\"Banco de Dados\" style=\"shape=cylinder;fillColor=#f87171;\"/>",
+      "w": 80,
+      "h": 80,
+      "title": "Banco de Dados"
+    }
+  ]
+</mxlibrary>
